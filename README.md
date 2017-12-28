@@ -1,7 +1,7 @@
 # Cminus-Compiler
 
-A compiler for the C- language
-C-Minus is a extremely simplified version of C.
+A compiler for the C- language </br>
+C-Minus is a extremely simplified version of C.</br>
 It is a ridiculously trivial  project, which was originally written for a university subject (Queensland University of Technology's course ITB464 Modern Compiler Construction). It implements the C-Minus language, which is the simplest possible conventional imperative language that does something interesting (recursion, arrays, iteration, decision -- that's it)
 
 Here's what a C-Minus program might look like:
